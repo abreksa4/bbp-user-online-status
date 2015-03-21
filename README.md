@@ -1,5 +1,5 @@
 # BBP User Online Status
-A Wordpress plugin to show user online/offline status in bbpress topics and replies
+A Wordpress plugin to show user online/offline statuses in bbpress topics and replies
 
 Simply adds an "Online" or "Offline" under the author information in [bbpress](https://bbpress.org/) topics and replies.
 
