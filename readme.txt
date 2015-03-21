@@ -1,6 +1,5 @@
 === bbp user online status ===
 Contributors: abreksa4
-Donate link: http://example.com/
 Tags: bbpress, forums, user online, user offline
 Requires at least: 3.0.1
 Tested up to: 3.4
