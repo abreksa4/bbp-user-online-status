@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: bbp user online status
-Plugin URL:
+Plugin URL: https://github.com/abreksa4/bbp-user-online-status
 Description: displays user's online/offline status in bbpress topics/replies
 Version: 1.0
 Author: Andrew Breksa
