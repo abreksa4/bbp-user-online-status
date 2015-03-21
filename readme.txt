@@ -31,5 +31,5 @@ Parts of code adapted from Robin Wilson's [bbp profile information](https://word
 
 = 1.0 =
 * basic Online/Offline message
-* two-method user logout catch
-* one-method user login catch
+* one-method user logout catch
+* two-method user login catch
