@@ -13,3 +13,15 @@ Offline
 
 Settings
 ![](https://github.com/abreksa4/bbp-user-online-status/blob/master/assets/screenshot-3.PNG?raw=true)
+
+*How does BBP User Online Status check keep track of who's online?*
+
+Whenever a user logs in or logs out, a variable is set or unset respectively. If a user doesn't logout, 
+if the user has been inactive for more than 15 minuets, there status is set as offline. 
+
+TODO
+
+* Make inactive time configurable
+* Include images in addition to text (configurable)
+* Make location configurable
+* Make text configurable
