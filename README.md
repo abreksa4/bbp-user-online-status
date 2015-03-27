@@ -1,6 +1,7 @@
 # BBP User Online Status
 
 [![Join the chat at https://gitter.im/abreksa4/bbp-user-online-status](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/abreksa4/bbp-user-online-status?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A Wordpress plugin to show user online/offline statuses in bbpress topics and replies
 
 Simply adds an "Online" or "Offline" under the author information in [bbpress](https://bbpress.org/) topics and replies.
