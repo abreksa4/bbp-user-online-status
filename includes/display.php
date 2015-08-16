@@ -27,13 +27,10 @@ function bbp_user_online_status(){
          echo '<ul>';
      $user_id = bbp_get_reply_author_id($reply_id);
      if ($bbpuos_options['activate'] == true) {
--        echo '<li>';
 +        echo '<li class="bbp-online-status">';
          if (is_user_online($user_id)) {
--            echo "Online";
 +            echo '<span class="bbp-online">Online</span>';
          } else {
--            echo "Offline";
 +            echo '<span class="bbp-offline">Offline</span>';
          }
          echo '</li>';
